@@ -7,5 +7,8 @@ Primeiro projeto do curso explorer da RocketSeat. Refazendo códigos e exercitan
 
 ![preview](https://user-images.githubusercontent.com/110698111/192035691-d3577cc7-5684-4f7f-8616-2d056bae6632.png)
 
+>>Acesso
+https://cristina-mota.github.io/projeto01explorer/
+
 >>Contato:
 cm.crismota@gmail.com
